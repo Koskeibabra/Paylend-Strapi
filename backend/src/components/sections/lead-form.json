@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_sections_lead_forms",
+  "info": {
+    "name": "Lead form",
+    "displayName": "Lead form",
+    "icon": "at",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "media": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
